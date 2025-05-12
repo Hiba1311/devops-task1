@@ -43,16 +43,16 @@ To run the Node.js app locally:
    
 
 2. Install dependencies:
-   ```bash
+   bash
    npm install
-   ```
+   
 
 3. Start the app:
    bash
    node index.js
    
 
-4. Open your browser and navigate to `http://localhost:3000` to see the app running.
+4. Open your browser and navigate to http://localhost:3000 to see the app running.
 
  Docker Setup
 
