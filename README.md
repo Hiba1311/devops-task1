@@ -22,16 +22,6 @@ This process will be automatically triggered whenever code is pushed to the `mai
  Folder Structure
 
 
-nodejs-demo-app/
-├── .github/
-│   └── workflows/
-│       └── main.yml  # GitHub Actions workflow file
-├── Dockerfile        # Docker configuration to containerize the app
-├── index.js          # Main entry point of the Node.js app
-├── package.json      # Project dependencies and metadata
-└── README.md         # This file
-
-
 Getting Started Locally
 
 To run the Node.js app locally:
