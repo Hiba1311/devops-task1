@@ -1,7 +1,7 @@
 
  CI/CD Pipeline for Node.js Web App
 
-This project demonstrates the process of automating code deployment using **CI/CD** with **GitHub Actions**, **Node.js**, and **Docker**. The pipeline is set up to **build, test, and deploy** the app every time changes are pushed to the `main` branch.
+This project demonstrates the process of automating code deployment using CI/CD with GitHub Actions, Node.js, and Docker. The pipeline is set up to build, test, and deploy the app every time changes are pushed to the main branch.
 
  Project Overview
 
